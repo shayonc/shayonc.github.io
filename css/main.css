@@ -426,6 +426,14 @@ section h3.section-subheading {
   font-weight: 400;
   margin-bottom: 75px;
 }
+section h3.section-subheading2 {
+  font-size: 16px;
+  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
+  font-style: italic;
+  font-weight: 400;
+  margin-bottom: 35px;
+}
 @media (min-width: 768px) {
   section {
     padding: 120px 0;
@@ -792,7 +800,7 @@ ul.social-buttons {
 }
 ul.social-buttons li a {
   display: block;
-  background-color: #2D50A1;
+  background-color: #5BA8EB;
   height: 40px;
   width: 40px;
   border-radius: 100%;
@@ -807,7 +815,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-  background-color: #61B3FA;
+  background-color: #1c86e3;
 }
 .btn:focus,
 .btn:active,
